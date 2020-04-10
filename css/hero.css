@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+font-family: helvetica, arial, sans-serif;
+font-size: 22px;
+}
+
+header{
+	background-color: #A03232;
+	text-align: center;
+	padding-top: 55px;
+	padding-bottom: 5px;
+}
+
+h1, h2{
+	font-family: 'Courgette', cursive;
+
+}
+
+header h1{
+	color: white;
+	font-size: 55px;
+	padding-right: 3px;
+
+}
+
+header img{
+	border-radius: 30px;
+	width: 300px;
+	border: 10px solid white;
+}
+
+main{
+	max-width: 1000px;
+	margin:0 auto;
+	padding: 10px 20px 0px;
+}
+
+main img{ max-width: 100%; 
+}
+
+h2{
+	font-size: 35px;
+}
